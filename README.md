@@ -20,7 +20,7 @@ Modules
 
 Contributing
 ------------
-If you wish to contribute to a particular module, follow the steps outlined [here](How-to-use-git.md). 
+If you wish to contribute to a particular module, follow the steps outlined [here][tutorial-link]. 
 
 The main format used should be LaTeX, or plain text. If you wish to submit a a non-text file, please email [UoBCSGithub@googlemail.com][contact]. (Please try not to submit word documents).
 	
