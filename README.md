@@ -16,7 +16,9 @@ Expanding on this idea, I thought it would be useful to have a set of resources 
 Modules
 -------
 - Year 2
-	- [Professional Computing](https://github.com/UoB-CS-Students/Year-2-Prof-Comp)
+	- [Professional Computing][prof-comp-link]
+	- [Software System Components][ssc-link]
+	- [Functional Computing][fp-link]
 
 Contributing
 ------------
@@ -38,3 +40,6 @@ This is a student-run account, and is not associated with the University of Birm
 
 [tutorial-link]: contributing/Basic-contribution.md
 [contact]: mailto:UoBCSGithub@googlemail.com
+[prof-comp-link]: https://github.com/UoB-CS-Students/Year-2-Prof-Comp
+[ssc-link]: https://github.com/UoB-CS-Students/Year-2-SSC
+[fp-link]: https://github.com/UoB-CS-Students/Year-2-FP
