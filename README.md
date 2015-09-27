@@ -16,7 +16,7 @@ Expanding on this idea, I thought it would be useful to have a set of resources 
 Modules
 -------
 - Year 2
-	- [Professional Computing](https://github.com/UoB-CS-Students/Prof-Comp)
+	- [Professional Computing](https://github.com/UoB-CS-Students/Year-2-Prof-Comp)
 
 Contributing
 ------------
