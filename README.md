@@ -15,6 +15,8 @@ Expanding on this idea, I thought it would be useful to have a set of resources 
 
 Modules
 -------
+- Year 1
+	- [Elements of Functional Computing][efc-link]
 - Year 2
 	- [Professional Computing][prof-comp-link]
 	- [Software System Components][ssc-link]
@@ -43,3 +45,4 @@ This is a student-run account, and is not associated with the University of Birm
 [prof-comp-link]: https://github.com/UoB-CS-Students/Year-2-Prof-Comp
 [ssc-link]: https://github.com/UoB-CS-Students/Year-2-SSC
 [fp-link]: https://github.com/UoB-CS-Students/Year-2-FP
+[efc-link]: https://github.com/UoB-CS-Students/Year-1-EFC
